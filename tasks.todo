@@ -1,0 +1,49 @@
++ Project Setup and Basic Web Server (1 day) 
+    + Set up your development environment. 
+    + Initialize a Go module. 
+    + Create a basic web server using the `net/http`
+
++ Database Setup and Entity Relationship Diagram (1 days)
+    + Learn about SQLite and its usage in Go.
+    + Design the entity relationship diagram for the database.
+    + Set up the SQLite database connection in your Go code.
+    + Implement CREATE and INSERT queries for creating tables and initial data.
+
++ User Registration and Authentication (1 days)
+    + Implement user registration form handling.
+    + Check for duplicate email addresses during registration.
+    + Store user data in the database (including encrypted password as a bonus).
+    + Implement session management using cookies.
+    + Implement login functionality.
+ 
+- Communication - Posts and Comments (2 days)
+    + Create routes for creating and displaying posts.
+    + Implement the ability to associate categories with posts.
+    - Create routes for creating and displaying comments.
+    - Ensure only registered users can create posts and comments.
+ 
+- Likes and Dislikes (1 days)
+    - Add functionality for registered users to like and dislike posts/comments.
+    - Display like and dislike counts for all users.
+ 
+- Filtering Mechanism (1 days)
+    + Implement filtering by categories for posts.
+    - Implement filtering for created posts.
+    - Implement filtering for liked posts.
+ 
+- Dockerization (1 days)
+    - Set up Docker for your Go application.
+    - Create a Dockerfile.
+    - Build and run your application in a Docker container.
+
+- Error Handling and Testing (1 days)
+    - Implement error handling for various scenarios.
+    - Write unit tests to ensure different parts of your application work as expected.
+ 
+- Good Practices and Code Cleanup (1 day)
+    - Review your code for best practices and code organization.
+    - Refactor and clean up your code if needed.
+ 
+- Documentation and Submission (1 day)
+    - Write documentation for how to set up and run your forum.
+    - Prepare your code and documentation for submission.

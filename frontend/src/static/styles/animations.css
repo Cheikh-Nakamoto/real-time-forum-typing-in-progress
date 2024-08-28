@@ -1,0 +1,9 @@
+@keyframes slideDown {
+    from { top: -50px; opacity: 0; }
+    to { top: 0; opacity: 1; }
+  }
+
+  @keyframes slideUp {
+    from { top: 0; opacity: 1; }
+    to { top: -50px; opacity: 0; }
+  }

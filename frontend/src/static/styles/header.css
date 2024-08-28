@@ -1,0 +1,37 @@
+@import "root.css";
+.layout-header{
+    background-color: var(--bs-white); /*this is a test*/
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--bs-gray);
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.5rem 2rem;
+}
+
+.icon-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 2rem;
+}
+
+.navbar .material-symbols-outlined{
+    color: var(--bs-blue);
+}
+
+.search-bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.logo-text{
+    color:var(--bs-blue)
+}

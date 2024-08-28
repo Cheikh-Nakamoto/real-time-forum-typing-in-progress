@@ -1,0 +1,9 @@
+Insert INTO categories (name,color) values ("Music","#ffd166");
+Insert INTO categories (name,color) values ("Technology","#b8dbd9");
+Insert INTO categories (name,color) values ("Science","#a7c957");
+Insert INTO categories (name,color) values ("Health","#92B4A7");
+Insert INTO categories (name,color) values ("Travel","#ffb3c1");
+Insert INTO categories (name,color) values ("Fashion","#f28482");
+Insert INTO categories (name,color) values ("Food","#E7F59E");
+Insert INTO categories (name,color) values ("Education","#83c5be");
+Insert INTO categories (name,color) values ("Entertainment","#8c8a93");
